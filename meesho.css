@@ -1,0 +1,239 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.nav
+{
+    height: 75px;
+    outline: 1px solid white;
+    padding:0px 10px;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navleft{
+    display:flex;
+}
+.navright{
+    display:flex;
+}
+img{
+    width:85%;
+}
+.logo
+{
+    width:250px;
+}
+.searchbox{
+    width: 400px;
+    height: 40px;
+    outline:1px solid rgb(126,126,126);
+    display:flex;
+    margin-left: 15px;
+    border-radius: 3px;
+    align-items: center;
+    padding:10px;
+}
+.searchicon{
+    width: 50px;
+    margin: 5px;
+    padding-top: 8px;;
+}
+.inputsearch{
+    width:100%;
+    border:none;
+    outline:none;
+    font-size: 16px;
+}
+
+.mobileicon{
+    width: 20px;
+    margin: 5px;
+}
+.downloadcontainer{
+   display:flex;
+   align-items: center;
+   height: 100%;
+   padding-top: 8px;
+}
+.downloadcontainer:hover{
+    color:rgb(204,19,127);
+    cursor: pointer;
+}
+.downloadcontainer p{
+    margin:0;
+    padding:0;
+    font-size: 17px;
+}
+.becomeSuppliercontainer
+{
+    display:flex;
+    padding:0px 16px;
+    font-size: 17px;
+    padding-top: 11px;
+    padding-right: 2px;
+
+}
+.profileandcart{
+    display:flex;
+    align-items: center;
+}
+.profileandcart p{
+    margin:0;
+    padding:0;
+}
+.profileicon{
+    width:27px;
+} 
+.carticon{
+    width: 20px;
+}
+.profilecontainer{
+    padding:0px 10px;
+    display:flex;
+    justify-content: center;
+    padding-left: 10px;
+}
+.cartcontainer{
+    padding:0px 20px;
+    display:flex;
+    justify-content: center;
+}
+
+.sec-nav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    border:1px solid rgb(234,230,230);
+    border-left: none;
+    border-right: none;
+    padding: 15px;
+    margin-top: 2px;
+}
+.sec-nav p:hover{
+    color:rgb(204,19,127);
+    cursor: pointer;
+}
+.main{
+    display:flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-top: 50px;
+    margin-left: 80px;
+    margin-right: 50px;
+    margin-bottom: 100px;
+}
+.main img{
+    width: 54%;
+    height: 67%;
+}
+.main  .text{
+      width: 540px;
+      background-color: rgb(245, 242, 242);
+}
+.main .text  h1{
+    font-size: 50px;
+    margin-top: 11px;
+    margin-left: 20px;
+}
+.main  .text .txt{
+    display: flex;
+    justify-content: center;
+}
+.main .text .txt  h2{
+    margin-inline: 11px;
+    font-size: 22px;
+    margin-top: 22px;
+}
+
+.main .text  button{
+    width: 300px;
+    height: 43px;
+    background-color: rgb(235, 38, 152);
+    color: white;
+    border-radius: 4px;
+    border:none;
+    font-size: 20px;
+    margin-top: 34px;
+    margin-left: 80px;
+}
+
+.main .text button:hover{
+    background-color: transparent;
+    border:3px solid rgb(235, 38, 152);
+    color: rgb(235, 38, 152);
+}
+
+.top-cart h1{
+    text-align: center;
+    margin-top: 44px;
+    padding: 22px;
+} 
+.top-cart .fs{
+    margin-left: 86px;
+    width: 1300px;
+}
+
+.seller h1{
+    text-align: center;
+    margin-top: 33px;
+    padding: 33px;
+    font-size: 44px;
+}
+.seller img{
+    width: 1000px;
+    margin-left: 86px;
+}
+h1{
+    text-align: center;
+    font-size: 44px;
+    margin-top: 33px;
+    padding: 33px;
+}
+.card{
+    margin-top: 20px;
+}
+.crd{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    text-align: center;
+}
+ .hi .card .crd .img{
+    height: 400px;
+ }
+.crd .img{
+    border: 1px solid rgb(234,230,230);
+}
+.crd .img img{
+    width:82%;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-top: 40px;
+    padding: 57px;
+    background-color: rgb(246,243,243);
+}
+.footer .list1{
+    padding-left: 40px;
+}
+.footer .list2{
+    padding-left: 60px;
+}
+.footer .list3{
+    padding-left: 60px;
+}
+.footer .list4{
+    padding-left: 60px;
+}
+.footer .icons{
+    display:flex;
+}
+.footer .list4 .icons{
+    margin-inline: 3px;
+    font-size: 33px;
+    width:45%;
+}
