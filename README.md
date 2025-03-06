@@ -1,2 +1,3 @@
-# jyothi
-meesho webpage
+MEESHO WEBPAGE
+
+Developed a Responsive Meesho webpage  using HTML, CSS, and Bootstrap.Utilized HTML for structuring the webpage and CSS for styling and layout.Leveraged Bootstrap framework to design responsive and mobile-first web pages efficiently.Implemented responsive design principles to ensure compatibility across various devices and screen sizes.Used Bootstrap components such as grids, navbars, and carousels to enhance the webpage's functionality and aesthetics. Applied CSS Flexbox and Grid to create a visually appealing and organized layout.Incorporated multimedia elements such as images and videos to enhance user engagement.Ensured cross-browser compatibility and optimized the webpage for performance
